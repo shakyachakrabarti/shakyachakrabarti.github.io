@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# About Me
 
-You can use the [editor on GitHub](https://github.com/shakyachakrabarti/shakyachakrabarti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a 3rd year B.Tech student majoring in Electronics and Communication Engineering currently looking for R&D projects/internship in the field of Signal & Image Processing, Communication and Application of Signal Processing in Modern Communication Systems. I am conscientious and efficient. I have no problem in travelling and relocation provided proper facilities are present for the same.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My resume is available [here](https://www.linkedin.com/in/shakyachakrabarti/detail/treasury/summary/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAACH1BgwBJyVkLy5R7e0Qu1_EDwDIKnMo49U%2C1516526321102))
 
-### Markdown
+## Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Languages
+C, MATLAB, CUDA, OpenMP, LATEX, Python
 
-```markdown
-Syntax highlighted code block
+### Softwares
+PSpice, NIMultisim, MS Office 2016
 
-# Header 1
-## Header 2
-### Header 3
+### OS
+Windows(XP, 7, 8.1, 10), Ubuntu 16.04
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shakyachakrabarti/shakyachakrabarti.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Publications
+A meticulous implementation of RSA Algorithm using MATLAB for image encryption | IEEE
+View [here](http://ieeexplore.ieee.org/document/8076979/)
+### Abstract
+Abstract:
+Information is the currency of democracy, impregnability of the same during transfer and storage has become a challenge in the field of data communication. One of the most efficient solutions to this ever growing problem is cryptography. The cynosure of this paper is the modified encryption and decryption of images using RSA Algorithm and its subsequent application on an image file. It involves splitting of the image so as to procure encrypt-able split files; and finally retrieval of the original image by applying decryption mechanisms. At the end, an efficient approach is established for keeping the image safe.
