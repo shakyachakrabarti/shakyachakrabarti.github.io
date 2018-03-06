@@ -18,6 +18,6 @@ avatar: https://avatars2.githubusercontent.com/u/37099178?s=400&u=c7b9c3b46d456a
 #
 
 # Includes an icon in the footer for each username you enter
-footer-links:
+baseurl:""
   linkedin_username: shakyachakrabarti
-  facebook_username: https://www.facebook.com/shakya.chakrabarti
+  facebook_username: shakya.chakrabarti
