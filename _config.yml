@@ -1,1 +1,24 @@
 theme: jekyll-theme-cayman
+
+#
+# This file contains configuration flags to customize your site
+#
+
+# Name of your site (displayed in the header)
+name: Shakya Chakrabarti
+
+# Short bio or description (displayed in the header)
+description: Electronics Undergrad
+
+# URL of your avatar or profile pic (you could use your GitHub profile pic)
+avatar: https://avatars2.githubusercontent.com/u/37099178?s=400&u=c7b9c3b46d456a5a1ac9aa18ca3ec1580cfb7d23&v=4
+
+#
+# Flags below are optional
+#
+
+# Includes an icon in the footer for each username you enter
+footer-links:
+  linkedin:
+  facebook:
+  googleplus:
