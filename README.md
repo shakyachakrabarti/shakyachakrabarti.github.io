@@ -2,8 +2,6 @@
 
 I am a 3rd year B.Tech student majoring in Electronics and Communication Engineering currently looking for R&D projects/internship in the field of Signal & Image Processing, Communication and Application of Signal Processing in Modern Communication Systems. I am conscientious and efficient. I have no problem in travelling and relocation provided proper facilities are present for the same.
 
-My resume is available [here](https://www.linkedin.com/in/shakyachakrabarti/detail/treasury/summary/?entityUrn=urn%3Ali%3Afs_treasuryMedia%3A(ACoAACH1BgwBJyVkLy5R7e0Qu1_EDwDIKnMo49U%2C1516526321102))
-
 ## Skills
 
 ### Languages
