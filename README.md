@@ -23,7 +23,7 @@ Information is the currency of democracy, impregnability of the same during tran
 
 Proposition of a secure system of voting using UIDAI data via IoT |IJSRTM
 
-View [here] (http://doi.org/10.18510/ijsrtm.2018.616)
+View .[here](http://doi.org/10.18510/ijsrtm.2018.616)
 ### Abstract
 Abstract:The paper proposes a secure system which will utilize the Aadhar database along with the Electronic Voting Machine units, to authenticate voters by bio-metric means which will be synchronized by Internet of Things. After successful casting of vote, two sets of voting statistics will be stored in the local polling station as well as a centralized register respectively; through a cascade of servers. These will be secured from virtual third-party vulnerability by VMAC encryption. Finally, an impenetrable system of voting can be established by the above method.
 
