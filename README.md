@@ -1,4 +1,3 @@
-![alt text](hhttps://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiZtceloPjkAhWYb30KHQh2BxQQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.researchgate.net%2Fprofile%2FShakya_Chakrabarti&psig=AOvVaw21QZNWHnrymSmznly2Gp-J&ust=1569922793900375)
 # About Me
 
 Currently working as an SoC Design Engineer in RTL Frontend at Intel Corporation, Bangalore. Primary job includes analysis, implementation and verification of Low Power intents using UPF Methodology and Synopsys VCLP.
