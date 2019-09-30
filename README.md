@@ -1,4 +1,4 @@
-![Image Description] (https://github.com/account)
+![alt text] (https://github.com/account)
 # About Me
 
 Currently working as an SoC Design Engineer in RTL Frontend at Intel Corporation, Bangalore. Primary job includes analysis, implementation and verification of Low Power intents using UPF Methodology and Synopsys VCLP.
